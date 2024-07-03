@@ -1,0 +1,1 @@
+This project demonstrates how to use Celery with Django to schedule and execute periodic tasks. Celery is an asynchronous task queue/job queue based on distributed message passing. It is suitable for real-time operations and supports task scheduling. Redis is used as the message broker for Celery, efficiently handling the task queue.
