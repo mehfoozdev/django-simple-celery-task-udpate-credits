@@ -1,0 +1,8 @@
+
+Celery :
+
+    Start celery worker; 
+        - celery -A firstproject worker -l info
+
+    Celery Beat Schedule
+        - celery -A firstproject beat -l info
